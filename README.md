@@ -14,10 +14,6 @@
   <a href="https://github.com/castrodeko11">
     <img alt="Made by André Oliveira" src="https://img.shields.io/badge/Made%20By-Andr%C3%A9%20de-Oliveira">
   </a>
-
-  <a href="https://www.linkedin.com/in/andrecastrodeoliveira/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://br.linkedin.com/in/andrecastrodeoliveira">
-  </a>
 </p>
 
 ## 🚀 Projeto
