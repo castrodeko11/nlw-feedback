@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
 
   <a href="https://github.com/castrodeko11">
-    <img alt="Made by André Oliveira" src="https://img.shields.io/badge/Made%20By-Andr%C3%A9%20de-Oliveira">
+    <img alt="Made by André Oliveira" src="https://img.shields.io/badge/Made%20By-Andr%C3%A9%20Oliveira-d">
   </a>
 </p>
 
