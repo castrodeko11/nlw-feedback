@@ -35,4 +35,4 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 
 ---
 
-Feito ♥ by [André Oliveira]
+Feito com ♥ by [André Oliveira]
