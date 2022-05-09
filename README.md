@@ -31,8 +31,6 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - ESLint + Prettier + EditorConfig;
 - VS Code
 
-## 🚀 **Em constante evolução...**
-
 ---
 
 Feito com ♥ by [André Oliveira]
